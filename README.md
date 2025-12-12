@@ -233,9 +233,9 @@ Pending → Accepted → Preparing → Out for Delivery → Delivered
 
 ```
 ![Home Screen](docs/home.png)
-/docs/cart.png
-/docs/invoice.png
-/docs/admin.png
+![Login](docs/login.png)
+![Signup](docs/signup.png)
+![Checkout](docs/checkout.png)
 ```
 
 ---
