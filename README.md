@@ -229,8 +229,6 @@ Pending → Accepted → Preparing → Out for Delivery → Delivered
 
 ## 📸 Screenshots
 
-(Add images in /docs folder)
-
 ```
 ![Home Screen](docs/home.png)
 ![Login](docs/login.png)
