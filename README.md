@@ -232,7 +232,7 @@ Pending → Accepted → Preparing → Out for Delivery → Delivered
 (Add images in /docs folder)
 
 ```
-/docs/home.png
+![Home Screen](docs/home.png)
 /docs/cart.png
 /docs/invoice.png
 /docs/admin.png
