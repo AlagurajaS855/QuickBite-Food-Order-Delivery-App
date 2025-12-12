@@ -91,7 +91,7 @@ Designed using a clean MVC structure, optimized SQL schema, and production-style
 
 * Apache Tomcat 9 / 10
 * MySQL Connector/J
-* iText / OpenPDF (for invoice generation)
+* OpenPDF (for invoice generation)
 
 ---
 
